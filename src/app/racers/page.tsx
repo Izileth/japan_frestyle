@@ -127,8 +127,8 @@ export default function RacersPage() {
                 <h3 className="text-2xl font-bold">Nissan Motorsports (NISMO)</h3>
               </div>
               <p className="text-gray-300 mb-4">
-                Nissan"s factory racing division dominated touring car championships throughout the 1980s. Their
-                development of the Skyline GT-R racing program culminated in the R32 "Godzilla" that would go on to win
+                Nissans factory racing division dominated touring car championships throughout the 1980s. Their
+                development of the Skyline GT-R racing program culminated in the R32 Godzilla that would go on to win
                 every single race in the 1990 Japanese Touring Car Championship.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
@@ -148,11 +148,11 @@ export default function RacersPage() {
                 <div className="bg-green-600 h-12 w-12 flex items-center justify-center rounded-full">
                   <Trophy className="h-6 w-6" />
                 </div>
-                <h3 className="text-2xl font-bold">Toyota Team Tom's</h3>
+                <h3 className="text-2xl font-bold">Toyota Team Toms</h3>
               </div>
               <p className="text-gray-300 mb-4">
-                Tachi Oiwa Motor Sport (TOM'S) became Toyota's premier racing team in the 1980s. They were instrumental
-                in developing Toyota's sports cars and racing technologies, including the Supra and Celica GT-Four rally
+                Tachi Oiwa Motor Sport (TOMS) became Toyotas premier racing team in the 1980s. They were instrumental
+                in developing Toyotas sports cars and racing technologies, including the Supra and Celica GT-Four rally
                 car.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
@@ -175,7 +175,7 @@ export default function RacersPage() {
                 <h3 className="text-2xl font-bold">Mazda Mazdaspeed</h3>
               </div>
               <p className="text-gray-300 mb-4">
-                Mazda's racing division focused on developing their unique rotary engine technology throughout the
+                Mazdas racing division focused on developing their unique rotary engine technology throughout the
                 1980s. Their persistence with the unconventional engine would eventually lead to the only Japanese
                 victory at Le Mans in 1991 with the 787B.
               </p>
@@ -199,7 +199,7 @@ export default function RacersPage() {
                 <h3 className="text-2xl font-bold">Honda Racing Corporation (HRC)</h3>
               </div>
               <p className="text-gray-300 mb-4">
-                While primarily focused on motorcycle racing in the 1980s, Honda's racing division began developing
+                While primarily focused on motorcycle racing in the 1980s, Hondas racing division began developing
                 their Formula 1 program during this decade. Their engineering excellence would lead to multiple F1
                 championships in the following years.
               </p>
@@ -262,13 +262,13 @@ export default function RacersPage() {
               <div>
                 <h3 className="text-2xl font-bold mb-4">1987: Drift Pluspy - Drifting Goes Mainstream</h3>
                 <p className="text-gray-300 mb-6">
-                  In 1987, Keiichi Tsuchiya released "Drift Pluspy," a video showcasing his incredible drifting
+                  In 1987, Keiichi Tsuchiya released Drift Pluspy, a video showcasing his incredible drifting
                   techniques on mountain roads. This video, featuring the now-legendary Toyota AE86, catapulted drifting
                   into the mainstream and inspired a generation of drivers.
                 </p>
                 <p className="text-gray-300">
-                  The video's influence cannot be overstated - it led to organized drifting competitions, influenced the
-                  manga and anime "Initial D," and established Japanese car culture's unique identity on the global
+                  The videos influence cannot be overstated - it led to organized drifting competitions, influenced the
+                  manga and anime Initial D, and established Japanese car cultures unique identity on the global
                   stage.
                 </p>
               </div>
@@ -283,7 +283,7 @@ export default function RacersPage() {
                   four-wheel steering.
                 </p>
                 <p className="text-gray-300">
-                  The R32 GT-R would go on to dominate motorsports so thoroughly that it earned the nickname "Godzilla"
+                  The R32 GT-R would go on to dominate motorsports so thoroughly that it earned the nickname Godzilla
                   and was eventually banned from Australian touring car racing for being too dominant. Its legacy
                   represents the pinnacle of 1980s Japanese engineering and the culmination of a decade of technological
                   advancement.

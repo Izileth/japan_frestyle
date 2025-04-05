@@ -109,7 +109,7 @@ export default function EventsPage() {
               <p className="mb-6 text-gray-200">
                 When the FIA introduced Group A regulations in 1983, it created the perfect platform for Japanese
                 manufacturers to showcase their engineering prowess. The category, which required cars to be based on
-                production models with at least 5,000 units produced, aligned perfectly with Japan's efficient,
+                production models with at least 5,000 units produced, aligned perfectly with Japan efficient,
                 high-revving engines and lightweight designs.
               </p>
 
@@ -117,20 +117,20 @@ export default function EventsPage() {
                 <div className="bg-white/10 p-4 rounded-lg">
                   <h4 className="font-semibold mb-2">Nissan Skyline</h4>
                   <p className="text-sm text-gray-300">
-                    The Skyline GT-R dominated Group A racing, earning the nickname "Godzilla" for its unstoppable
+                    The Skyline GT-R dominated Group A racing, earning the nickname Godzilla for its unstoppable
                     performance.
                   </p>
                 </div>
                 <div className="bg-white/10 p-4 rounded-lg">
                   <h4 className="font-semibold mb-2">Toyota Supra</h4>
                   <p className="text-sm text-gray-300">
-                    Toyota's flagship sports car proved its worth on the track with multiple victories in the late 80s.
+                    Toyota flagship sports car proved its worth on the track with multiple victories in the late 80s.
                   </p>
                 </div>
                 <div className="bg-white/10 p-4 rounded-lg">
                   <h4 className="font-semibold mb-2">Mazda RX-7</h4>
                   <p className="text-sm text-gray-300">
-                    The rotary-powered RX-7 showcased Mazda's unique engineering approach with competitive performances.
+                    The rotary-powered RX-7 showcased Mazda unique engineering approach with competitive performances.
                   </p>
                 </div>
                 <div className="bg-white/10 p-4 rounded-lg">
@@ -251,7 +251,7 @@ export default function EventsPage() {
                 <span>Annual event starting in 1983</span>
               </div>
               <p className="text-gray-300 mb-4">
-                Originally called the "Tokyo Exciting Car Show," this event became the showcase for Japan's growing
+                Originally called the Tokyo Exciting Car Show, this event became the showcase for Japan growing
                 aftermarket and tuning culture. Unlike the more corporate Tokyo Motor Show, the Auto Salon featured
                 modified cars, aftermarket parts, and custom builds that represented the cutting edge of street
                 performance.

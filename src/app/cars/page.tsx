@@ -208,7 +208,7 @@ export default function CarsPage() {
               <h3 className="text-2xl font-bold mb-4">The Legend Begins: 1989</h3>
               <p className="mb-6 text-gray-200">
                 Though released at the very end of the decade, the R32 GT-R represents the culmination of 80s Japanese
-                engineering prowess. Nicknamed "Godzilla," this technological tour de force dominated motorsports so
+                engineering prowess. Nicknamed Godzilla, this technological tour de force dominated motorsports so
                 thoroughly that it was eventually banned from Australian touring car racing.
               </p>
 
@@ -228,7 +228,7 @@ export default function CarsPage() {
                 <div className="bg-white/10 p-4 rounded-lg">
                   <h4 className="font-semibold mb-2">RB26DETT Engine</h4>
                   <p className="text-sm text-gray-300">
-                    Twin-turbocharged 2.6L inline-six officially rated at 276 HP due to the "Gentleman's Agreement."
+                    Twin-turbocharged 2.6L inline-six officially rated at 276 HP due to the Gentlemans Agreement.
                   </p>
                 </div>
                 <div className="bg-white/10 p-4 rounded-lg">

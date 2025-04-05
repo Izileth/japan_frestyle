@@ -66,7 +66,7 @@ export default function HistoryPage() {
                       <Lightbulb className="h-8 w-8 text-emerald-400 mb-2" />
                       <h3 className="font-semibold mb-1">VTEC</h3>
                       <p className="text-xs text-gray-400">
-                        Honda's Variable Valve Timing and Lift Electronic Control system revolutionized engine
+                        Hondas Variable Valve Timing and Lift Electronic Control system revolutionized engine
                         performance.
                       </p>
                     </div>
@@ -74,7 +74,7 @@ export default function HistoryPage() {
                       <Lightbulb className="h-8 w-8 text-emerald-400 mb-2" />
                       <h3 className="font-semibold mb-1">HICAS</h3>
                       <p className="text-xs text-gray-400">
-                        Nissan's High Capacity Actively Controlled Steering introduced four-wheel steering to production
+                        Nissans High Capacity Actively Controlled Steering introduced four-wheel steering to production
                         cars.
                       </p>
                     </div>
@@ -82,14 +82,14 @@ export default function HistoryPage() {
                       <Lightbulb className="h-8 w-8 text-emerald-400 mb-2" />
                       <h3 className="font-semibold mb-1">ATTESA E-TS</h3>
                       <p className="text-xs text-gray-400">
-                        Nissan's advanced all-wheel drive system that could vary torque distribution in real-time.
+                        Nissans advanced all-wheel drive system that could vary torque distribution in real-time.
                       </p>
                     </div>
                     <div className="bg-white/10 p-4 rounded-lg flex flex-col items-center text-center">
                       <Lightbulb className="h-8 w-8 text-emerald-400 mb-2" />
                       <h3 className="font-semibold mb-1">Rotary Engine</h3>
                       <p className="text-xs text-gray-400">
-                        Mazda's continued development of the Wankel rotary engine for high-performance applications.
+                        Mazdas continued development of the Wankel rotary engine for high-performance applications.
                       </p>
                     </div>
                   </div>
@@ -125,8 +125,8 @@ export default function HistoryPage() {
                     futuristic elements.
                   </p>
                   <p className="text-gray-300 mb-6">
-                    Key design elements included pop-up headlights, angular "origami" styling, digital dashboards, and
-                    an emphasis on aerodynamics. These design choices weren't just stylistic—they reflected Japan's
+                    Key design elements included pop-up headlights, angular origami styling, digital dashboards, and
+                    an emphasis on aerodynamics. These design choices werent just stylistic—they reflected Japans
                     forward-thinking approach to automotive engineering.
                   </p>
 
@@ -141,7 +141,7 @@ export default function HistoryPage() {
                     <div className="bg-white/10 p-4 rounded-lg">
                       <h3 className="font-semibold mb-2">Digital Futurism</h3>
                       <p className="text-sm text-gray-400">
-                        The integration of digital displays and electronic controls reflected Japan's leadership in
+                        The integration of digital displays and electronic controls reflected Japans leadership in
                         consumer electronics and vision of the future.
                       </p>
                     </div>
@@ -163,7 +163,7 @@ export default function HistoryPage() {
                   <h2 className="text-3xl font-bold mb-6">Automotive Subcultures</h2>
                   <p className="text-gray-300 mb-4">
                     The 1980s saw the birth of several influential automotive subcultures in Japan that would eventually
-                    spread worldwide. These movements were often grassroots responses to Japan's unique geography,
+                    spread worldwide. These movements were often grassroots responses to Japans unique geography,
                     driving conditions, and car culture.
                   </p>
                   <p className="text-gray-300 mb-6">
@@ -204,7 +204,7 @@ export default function HistoryPage() {
                       <div>
                         <h3 className="font-semibold mb-1">Midnight Club</h3>
                         <p className="text-sm text-gray-400">
-                          Elite street racing teams that competed on Tokyo's expressways, pushing high-performance cars
+                          Elite street racing teams that competed on Tokyo expressways, pushing high-performance cars
                           to their limits and inspiring tuning culture globally.
                         </p>
                       </div>
@@ -279,7 +279,7 @@ export default function HistoryPage() {
                       <div>
                         <h3 className="font-semibold mb-1">Early Video Games</h3>
                         <p className="text-sm text-gray-400">
-                          Games like Namco's Pole Position (1982) and Sega's Out Run (1986) introduced Japanese sports
+                          Games like Namcos Pole Position (1982) and Segas Out Run (1986) introduced Japanese sports
                           cars to global audiences through arcade and home console gaming.
                         </p>
                       </div>
@@ -301,7 +301,7 @@ export default function HistoryPage() {
             <div>
               <h3 className="text-2xl font-bold mb-4">The Rise of Japanese Automotive Power</h3>
               <p className="mb-6 text-gray-200">
-                The 1980s marked a pivotal decade for Japan's automotive industry, transforming from budget-friendly
+                The 1980s marked a pivotal decade for Japans automotive industry, transforming from budget-friendly
                 alternatives to global leaders in quality, reliability, and innovation. This shift fundamentally changed
                 the global automotive landscape and established Japanese manufacturers as dominant forces in the
                 industry.

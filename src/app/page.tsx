@@ -108,9 +108,9 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-300 mb-6">
-                The legendary Toyota AE86, immortalized in the manga and anime "Initial D," became the symbol of Japan's
+                The legendary Toyota AE86, immortalized in the manga and anime Initial D, became the symbol of Japans
                 drifting culture. Its perfect balance, lightweight chassis, and rear-wheel drive made it the ultimate
-                driver's car despite modest power figures.
+                drivers car despite modest power figures.
               </p>
               <Button className="bg-cyan-600 hover:bg-cyan-700">View Full Specifications</Button>
             </div>
@@ -136,7 +136,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">Keiichi Tsuchiya</h3>
                 <p className="text-gray-300 mb-4">
-                  Known as the "Drift King," Tsuchiya pioneered drifting techniques that revolutionized motorsport and
+                  Known as the Drift King, Tsuchiya pioneered drifting techniques that revolutionized motorsport and
                   influenced car culture worldwide.
                 </p>
                 <Link href="/racers/tsuchiya" className="text-cyan-400 hover:text-cyan-300 inline-flex items-center">
@@ -157,7 +157,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">Kunimitsu Takahashi</h3>
                 <p className="text-gray-300 mb-4">
-                  A pioneer who transitioned from motorcycle racing to cars, Takahashi's driving style laid the
+                  A pioneer who transitioned from motorcycle racing to cars, Takahashi driving style laid the
                   groundwork for modern drifting techniques.
                 </p>
                 <Link href="/racers/takahashi" className="text-cyan-400 hover:text-cyan-300 inline-flex items-center">
@@ -178,7 +178,7 @@ export default function Home() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">Satoru Nakajima</h3>
                 <p className="text-gray-300 mb-4">
-                  Japan's first full-time Formula 1 driver who paved the way for future generations of Japanese racers
+                  Japans first full-time Formula 1 driver who paved the way for future generations of Japanese racers
                   on the international stage.
                 </p>
                 <Link href="/racers/nakajima" className="text-cyan-400 hover:text-cyan-300 inline-flex items-center">
